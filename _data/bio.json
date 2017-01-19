@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kelly Lee",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "kellyl4@hawaii.edu",
+    "phone": "808-284-2705",
+    "website": "https://kellyl4.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2018.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -39,7 +39,7 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
         "Arduino",
         "TI MSP430"
