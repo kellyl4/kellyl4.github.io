@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kellyl4",
+        "url": "http://github.com/kellyl4"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kelly-lee-2bb138133",
+        "url": "http://linkedin.com/in/kelly-lee-2bb138133"
       }
     ]
   },
