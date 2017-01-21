@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/spaceship.PNG
+image: images/spaceship (2).PNG
 title: Spaceship Game
 permalink: projects/Spaceship
 date: 2016
