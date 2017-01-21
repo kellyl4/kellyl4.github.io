@@ -73,56 +73,42 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
+      "company": "Tory Burch",
+      "position": "Sales Support",
       "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "November 2015",
+      "endDate": "Present",
       "highlights": [
+        "Assist customers in finding products and providing information about our products"
+        "Assist the sales team in ringing up"
+        "Physical inventory"
+        "Ensure the front of house and back of house is organized and neat at all times in order for the team to work quickly and efficiently"
       ]
-    },
+    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
+      "organization": "Hawaii Hope Mission Baptist Church",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "position": "Korean School Teacher",
+      "startDate": "2012",
+      "endDate": "2013",
+      "summary": "Korean teacher for kindergarteners"
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Prepared Korean classroom and coursework materials and homework assignments"
+        "Helped students understand, read, write, and speak Korean"
+        "Evaluated the students’ class work, assignments, and tests and provided feedback to their parents"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Dean's List",
+      "date": "2016-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Awarded to students with a G.P.A. of 3.5 or above with 12 or more credits in a semester."
     },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
+  
   ],
   "references": [
     {
