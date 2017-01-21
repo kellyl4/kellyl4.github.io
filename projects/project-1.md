@@ -22,7 +22,7 @@ ICS 111 is the intro course to Computer Science. Before this course, I had no ex
 This was my first time working in a group to create a programming project. It was a bit difficult at first because we were unsure of how to divide the work. After discussing about our game plan, I became in charge of the aliens, Jamie was in charge of the lazer, Jonathan was in charge of the spaceship, and we all contributed to the main class. Working in a group was challenging because we would have to discuss how we would implement these tasks and what functions we were going to include so our codes would flow nicely and be compatable with each other's. We faced many obstacles creating this project, but worked as a team and helped each other out. After completeing this project, I realized that programming with a team is a total different experience than programming alone. Working in a group involves a lot of compromising and also requires patience. 
 
 
-[Click here](http://www-ee.eng.hawaii.edu/~mmouse/about.html) to see a demonstration of the game.
+[Click here](hhttps://youtu.be/miRbHqi0pIg) to see a demonstration of the game.
 
 
 
