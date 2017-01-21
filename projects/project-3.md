@@ -1,60 +1,21 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
-date: 2014
+image: images/stego.jpg
+title: Stegonagraphy with Openpuff
+permalink: projects/stegonagraphy
+date: 2016
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - covert channels
+  - steganography
+summary: A simple game to dodge the trolls and dash to the other side.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/doge.PNG">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Doge Dash is a game that I helped create as a team project in ICS 111. The game is written in Java by using Eclipse. The objective of the game is to not get hit and safely get to the other side. Once the player manages to get to the other side, an option is given to either quit the game or move onto the next level.
 
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+It was nice working in a group because when we did not know how to do a certain task, or didn't know why our code was not working, we would work as a team and try to fix the problem. One person would throw something in and then another person would add on to that, and so forth. Soon, one by one, we were knocking out bugs and finally got the code to do what we wanted. We did run into obstacles where one of us wanted something to be a certain way while the other disagreed, but nonetheless, we learned how to work together. After completing this project, I realized that programming with a team is a total different experience than programming alone. Working in a group involves a lot of compromising and also requires patience. This project not only challenged me to apply everything I learned about Java in this one game, but also taught me the skill of working as a team.
+ 
+[Click here](https://youtu.be/gH9KVyro4mY) to see a demonstration of the game.
 
