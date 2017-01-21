@@ -7,7 +7,6 @@ permalink: projects/Spaceship
 date: 2016
 labels:
   - Java
-  - Eclipse
   - ICS111
 summary: My group programmed a Spaceship Game for our ICS 111 final project.
 ---
