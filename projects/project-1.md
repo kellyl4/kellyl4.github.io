@@ -12,7 +12,7 @@ labels:
 summary: My group programmed a Spaceship Game for our ICS 111 final project.
 ---
 
-<div class="ui small rounded images">
+<div>
   <img class="ui image" src="../images/spaceship.PNG">
 
 </div>
