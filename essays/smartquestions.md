@@ -26,7 +26,7 @@ How you ask questions, reflect on the type of person you are. Asking a vague que
 Now, [Click here](http://stackoverflow.com/questions/33791459/modx-revo-anchor-site-start-url/34048870#34048870) to see a dumb question and look at the response. The responder hit her with the "RTFM". The type of answer definitely reflected on the type of question she asked.
 
 
-If you wish to see more information on how to ask a smart question,  Eric Raymond provides us with guidelines in his essay [How To Ask Questions The Smart Way]http://www.catb.org/esr/faqs/smart-questions.html). He includes great examples and gives us an insight of what people who answers questions are thinking when they see a smart or dumb question. After reading his essay, you will soon enough be a pro at asking well thought out smart questions!
+If you wish to see more information on how to ask a smart question,  Eric Raymond provides us with guidelines in his essay [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). He includes great examples and gives us an insight of what people who answers questions are thinking when they see a smart or dumb question. After reading his essay, you will soon enough be a pro at asking well thought out smart questions!
 
 Through this experiment of searching for smart and dumb questions on stack overflow, I have seen the different types of answers depending of different types of questions. If you put in effort, so will the person on the other side of the screen. If you don't put in effort... don't expect much back in return. Just remember, "What you give is what you get."
 
