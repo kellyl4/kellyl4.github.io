@@ -29,5 +29,5 @@ Through this experiment of searching for smart and dumb questions on stack overf
 
 ## More information
 
-Eric Raymond does a great job in explaining what a smart question is and provides guidelines on how to ask one. He includes examples of what kinds of questions you should and should not be asking and gives us an insight of what people who answers questions are thinking when they see a smart or dumb question. After reading his essay, you will soon enough be a pro at asking well thought out smart questions! I highly recommend reading his very interesting and informative essay [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). 
+Eric Raymond does a great job in explaining what a smart question is and provides guidelines on how to acheive effective interations with the open source community. He includes examples of what kinds of questions you should and should not be asking and gives us an insight of what people who answers questions are thinking when they see a smart or dumb question. After reading his essay, you will soon enough be a pro at asking well thought out smart questions! I highly recommend reading his very interesting and informative essay [How To Ask Questions The Smart Way](http://www.catb.org/esr/faqs/smart-questions.html). 
 
