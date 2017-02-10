@@ -1,0 +1,19 @@
+---
+layout: essay
+type: essay
+title: Reflection on Javascript 1
+date: 2017-01-20
+labels:
+  - Javascript
+  - Athletic software engineering
+---
+
+<img class="ui medium left floated image" src="../images/js.jpg">
+
+## So what do you think of Javascript so far?
+
+Before enrolling in this course, I had no experience with Javascript at all. With java being the only programming language I have ever coded in, I did not know what to expect. To my surprise, the syntax is very similar to Java. This made Javascript quite easy for me to learn and allowed me to feel comfortable about coding in this language. Javascript seems like a less strict version of Java. While working on the exercises on freeCodeCamp, I was a bit thrown off when the instructions were telling me to write some codes that would be a big ‘no-no’ in Java. I do think Javascript is a good programming language due to the simplicity of it. When going through the tutorial on freeCodeCamp, I noticed that some tasks were executed in one line of code in Javascript, but the same task would have taken multiple lines and more complex thinking in Java. Although Javascript is a good programming language, I would not recommend it for a programmer's first language because it allows users to do things that would be considered illegal in almost all other major programming languages.
+
+## What about athletic software engineering?
+
+The practice “Workout of the Day” (WOD) is very helpful in preparing me for the WODs on Thursdays. They allow me to see in which areas I need to improve on and help me practice coding in Javascript. Athletic software engineering is beneficial as in it allows me to develop  quick problem solving skills. The WODs are very stressful to me because sometimes my mind freezes and I just cannot come up of a way to write code that will execute exactly what the WODs are asking for. I believe these WODs will help me in the long run in my career and help improve my critical thinking skills when under pressure. 
