@@ -2,15 +2,12 @@
 layout: essay
 type: essay
 title: C'mon Guys, Have Some Standards
-date: 2017-01-31
+date: 2017-02-09
 labels:
   - coding standards
 ---
 
-<div>
-  <img class="ui image" src="../images/code-review-2.jpg">
-
-</div>
+<img class="ui medium left floated image" src="../images/code-review-2.jpg">
 
 ## Coding Standards
 
