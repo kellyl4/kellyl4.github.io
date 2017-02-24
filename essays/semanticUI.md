@@ -1,6 +1,15 @@
+---
+layout: essay
+type: essay
+title: Frameworks for U and I
+date: 2017-02-23
+labels:
+  - Semantic UI
+---
+
 <img class="ui medium left floated image" src="../images/1461315888semantic.png">
 
-## Why UI Frameworks are worth learning
+## UI Frameworks Are Totally Worth It
 
 I believe that utilizing UI Frameworks is much simpler and easier than just coding in raw HTML and CSS. Personally, I've only used Semantic UI and have little experience with it, but I find it to be a great boon for web developers. Despite the fact that you have to learn an entirely new syntax and "language", it is more efficient and requires less effort and time than using a markup language. There are less rules to follow and Semantic UI streamlines web development, specifically web design.
 
