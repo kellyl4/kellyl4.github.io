@@ -1,5 +1,14 @@
-I believe that utilizing UI Frameworks is much simpler and easier than just coding in raw HTML and CSS. Personally, I've only used Semantic UI and have little experience with it, but I find it to be a great boon for web developers. Despite the fact that you have to learn an entirely new syntax and "language", it is more efficient and requires less effort and time than using a markup language. There are less rules to follow and Semantic UI streamlines web development, specifically web design.
+---
+layout: essay
+type: essay
+title: "Meteor Gotchas"
+date: 2017-03-09
+labels:
+  - Software Engineering
+  - Meteor
+---
 
-I feel that the UI Frameworks' ability to make coding easier also benefits the software engineering community, because the ubiquity of a framework can facilitate the democratization contribution towards open source programs. Not only does it make web design simpler and more accessible, but it can help set a community standard. If everyone were to use a framework such as Semantic UI, then it would be easier for software engineers to understand each others' code without much effort. Thus, UI Frameworks not only gives the developer an overall better experience, but they facilitate contribution and collaboration.
+## Meteor Problems
 
-With the help of UI Frameworks, a user is able to easily input all different types of things. Icons, menus, containers, you name it. Semantic UI is able to take in everyday words and interpret it into code. It allows a user to have concise HTML and uses simple phrases in Javascript that trigger functionality. Why wouldn't someone want to use Semantic UI? Everyone should experience UI Frameworks because it makes life that much simpler. 
+I have only got up to the first part of digits so I have not yet run into too many problems. Although, I did run into one situation, not necessarily a problem, but could easily turn into one. When committing changes to GitHub, I realized there were over thousands of “changes” git was requesting to commit. I thought this looked a bit funky, but I brushed it off and thought “eh, it shouldn’t be too bad”. I later found out from my professor on slack that this should not be happening. It should only be committing no more than a few hundred. I discovered the root of this problem was from not including the .gitignore file into my project. I have a Mac, so most of the times, . files are hidden, which is why I forgot to include. I inserted this file through the command line into my project and after that, never had to commit over a thousand changes through git. If I continued to do this, it could have slowed my computer down and I would be sitting there wondering what is making my project take so long to load or install. This could have been a bad situation so I easily dodged a bullet.
+
