@@ -8,7 +8,7 @@ labels:
   -software engineering
 ---
 
-<img class="ui medium left floated image" src="../ethics.jpg">
+<img class="ui medium left floated image" src="../images/ethics.jpg">
 
 ## Ethics in Software Engineering
 
