@@ -5,7 +5,7 @@ title: Lesser of Two Evils
 date: 2017-05-02
 labels:
   - ethics
-  -software engineering
+  - software engineering
 ---
 
 <img class="ui medium left floated image" src="../images/ethics.jpg">
