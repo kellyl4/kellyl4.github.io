@@ -21,9 +21,11 @@ summary: Final group project for ICS 314. An application for University of Hawai
 
 Campus Jam is a group project created in ICS 314, a software engineering course. After learning the basics of Javascript, Semantic UI, and HTML/CSS, Professor Johnson assigned us into groups of three to create a web application for the University of Hawaii community using the Meteor Framework. My group decided to create an app that will bring people interested in music together. Anyone with a UH account can login and create a profile. After creating a profile, community members can browse for other profiles with specific musical goals, tastes, and capabilities. 
 
-Goals: What they want to gain from this site. This can range from wanting to learn an instrument to looking for members to form a band.
-Tastes: Music genres they are interested in (classical, jazz, hip hop, etc.).
-Capabilites: Musical instruments they are able to play.
+<ul>
+<li>Goals: What they want to gain from this site. This can range from wanting to learn an instrument to looking for members to form a band.</li>
+<li>Tastes: Music genres they are interested in (classical, jazz, hip hop, etc.).</li>
+<li>Capabilites: Musical instruments they are able to play.</li>
+</ul>
 
 This will allow them to contact the user that results from the search through email, whether it is to ask them to create a band, have a casual music session, or to just make a new friend with similar interests. Aside from browsing profiles, members are also allowed to create events such as having a jam session. These events will include information such as the description of the event, location, time, music genre, and what instruments they are looking for. Members will be able to contact the person who created the event by clicking on their mail icon. A user's homepage will allow them to view other user's profiles in their community along with upcoming events. As you can see, the goal was to create a social networking app for not just musicians, but for anyone interested in music.
 
