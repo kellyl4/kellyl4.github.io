@@ -52,6 +52,7 @@
         "C",
         "Java",
         "Javascript",
+        "Familiar with C++
       ]
     },
     {
@@ -61,6 +62,8 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "Semantic UI",
+        "Meteor"
       ]
     }
   ],
@@ -73,6 +76,15 @@
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111: Intro to Computer Science I",
+        "ICS 141: Discrete Math for CS I",
+        "ICS 211: Intro to Computer Science II",
+        "ICS 212:  Program Structure",
+        "ICS 241: Discrete Mathematics II",
+        "ICS 311: Algorithms",
+        "ICS 314: Software Engineering I",
+        "ICS 355: Security and Trust I: Resource Protections",
+        "ICS 455: Security and Trust II: Information Assurance" 
       ]
     }
   ],
@@ -81,7 +93,7 @@
       "company": "Tory Burch",
       "position": "Sales Support",
       "website": "",
-      "startDate": "November 2015",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "",
       "highlights": [
