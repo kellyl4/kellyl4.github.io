@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landing.png
+image: images/LANDING.png
 title: Campus Jam
 permalink: projects/campusjam
 date: 2016
