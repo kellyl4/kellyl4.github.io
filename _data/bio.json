@@ -51,6 +51,8 @@
       "keywords": [
         "C",
         "C++",
+        "Python",
+        "Haskell",
         "Java",
         "Javascript",
         "HTML/CSS",
@@ -62,8 +64,9 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Mac OSX",
         "Ubuntu",
+        "Windows OS",
         "Git/GitHub"
       ]
     }
@@ -80,11 +83,14 @@
         "ICS 111: Intro to Computer Science I",
         "ICS 141: Discrete Mathematics for Computer Science I",
         "ICS 211: Intro to Computer Science II",
-        "ICS 212:  Program Structure",
+        "ICS 212: Program Structure",
+        "ICS 222: Basic Concepts of Computer Science",
         "ICS 241: Discrete Mathematics for Computer Science II",
         "ICS 311: Algorithms",
         "ICS 314: Software Engineering I",
         "ICS 355: Security and Trust I: Resource Protections",
+        "ICS 423: Data Security & Cryptography I",
+        "ICS 426: Computer System Security",
         "ICS 455: Security and Trust II: Information Assurance" 
       ]
     }
